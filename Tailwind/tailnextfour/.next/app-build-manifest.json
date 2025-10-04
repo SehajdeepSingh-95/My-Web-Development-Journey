@@ -1,0 +1,22 @@
+{
+  "pages": {
+    "/page": [
+      "static/chunks/9f815_next_dist_cd73ff3e._.js",
+      "static/chunks/Desktop_Tailwind_tailnextfour_app_favicon_ico_mjs_ac5c3bde._.js",
+      "static/chunks/[root-of-the-server]__1118d50e._.css",
+      "static/chunks/Desktop_Tailwind_tailnextfour_app_layout_79d9f2a6.js",
+      "static/chunks/9f815_next_dist_client_components_builtin_global-error_3f6f3a6d.js",
+      "static/chunks/9f815_next_dist_49103b33._.js",
+      "static/chunks/Desktop_Tailwind_tailnextfour_app_page_3f6f3a6d.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_57aecdb5._.js",
+      "static/chunks/9f815_next_dist_compiled_react-dom_7f704fbb._.js",
+      "static/chunks/9f815_next_dist_compiled_next-devtools_index_e292238e.js",
+      "static/chunks/9f815_next_dist_compiled_8f6a914d._.js",
+      "static/chunks/9f815_next_dist_client_eba65cdf._.js",
+      "static/chunks/9f815_next_dist_b1d959c3._.js",
+      "static/chunks/9f815_@swc_helpers_cjs_8102b197._.js",
+      "static/chunks/Desktop_Tailwind_tailnextfour_a0ff3932._.js",
+      "static/chunks/turbopack-Desktop_Tailwind_tailnextfour_cd367205._.js"
+    ]
+  }
+}
