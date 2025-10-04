@@ -1,0 +1,99 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+body {
+    background-color: #000;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    background-color: #1e1e1e;
+    padding: 25px 30px;
+    border-radius: 12px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.6);
+    width: 700px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 26px;
+    margin-bottom: 25px;
+    color: #bb86fc;
+}
+
+.inputContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+form {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+}
+
+input[type="text"],
+input[type="number"] {
+    flex: 1;
+    padding: 10px;
+    background-color: #333;
+    border: none;
+    border-radius: 6px;
+    color: #fff;
+    outline: none;
+}
+
+button {
+    background-color: #6200ea;
+    color: #fff;
+    border: none;
+    border-radius: 6px;
+    padding: 10px 15px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #3700b3;
+}
+
+#expenseList {
+    list-style-type: none;
+    margin-top: 20px;
+    text-align: left;
+}
+
+#expenseList li {
+    background-color: #292929;
+    padding: 10px;
+    border-radius: 6px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#totalAmount {
+    font-size: 22px;
+    font-weight: bold;
+    color: #bb86fc;
+}
+
+.container > div:last-child {
+    margin-top: 15px;
+    font-size: 20px;
+}
+
+input, button, li {
+    transition: all 0.2s ease;
+}
